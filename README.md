@@ -19,6 +19,12 @@ A simple, graphical IRC (Internet Relay Chat) client built with Python and Tkint
 
 The client features a simple interface with connection controls, channel management, and a scrollable chat window.
 
+### Main Window
+![IRC Client Main Window](screenshots/initial.jpg)
+
+### Connected and Chatting
+![Chatting in Channel](screenshots/channel.jpg)
+
 ## Requirements
 
 - Python 3.6 or higher

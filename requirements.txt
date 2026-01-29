@@ -1,0 +1,7 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - tkinter (GUI)
+# - socket (IRC connection)
+# - threading (async message handling)
+
+# Python 3.6+ required
